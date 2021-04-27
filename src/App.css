@@ -1,0 +1,23 @@
+main {
+  text-align: center;
+  vertical-align: center;
+}
+
+main h2 {
+    text-transform: uppercase;
+}
+
+main section {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+main nav {
+    max-width: 1200px;
+    margin: 2rem auto;
+    display: flex;
+    justify-content: space-between;
+}
